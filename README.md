@@ -23,6 +23,6 @@ s mi x y z Set mi [x][y] = z and output to standard output.
 
 g mi x y Get mi [x][y] and output to standard output.
 
-+ mi mj : Create a temporary matrix that is equal to mi + mj if the dimensions of mi and mj are the same. Outputs the temporary matrix using operator>> to standard output.
+'+ mi mj : Create a temporary matrix that is equal to mi + mj if the dimensions of mi and mj are the same. Outputs the temporary matrix using operator>> to standard output.
 
-* mi mj : Create a temporary matrix that is equal to mi × mj if the number of columns in mi equals the number of rows in mj . Outputs the temporary matrix using operator>> to standard output
+'* mi mj : Create a temporary matrix that is equal to mi × mj if the number of columns in mi equals the number of rows in mj . Outputs the temporary matrix using operator>> to standard output
